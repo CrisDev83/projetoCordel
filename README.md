@@ -1,10 +1,10 @@
 # projetoCordel
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CrisDev83/projetoInfofilmes/blob/master/LICENCE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CrisDev83/projetoCordel/blob/master/LICENCE) 
 
 # Sobre o projeto
 
-https://crisdev83.github.io/projetoGoogleGlass/
+https://github.com/CrisDev83/projetoCordel
 
 Primeiro site que desencolvi em 2016 (Não Responsivo). Baseado no antigo curso (2013) de HTML e CSS do canal [CURSO EM VIDEO](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o). Apesar do Design ser bem retro, todas as funcionalidades de HTML (2013) foram abordadas nesse projeto. 
 
