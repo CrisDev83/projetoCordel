@@ -35,7 +35,6 @@ Site criado referente ao Modulo 3 do curso de HTML e CSS do [CURSO EM VIDEO](htt
 ## Front end
 - HTML5
 - CSS3
-- JavaScript
 
 ## Implantação em produção
 - GitHub Pages
@@ -46,10 +45,10 @@ Site criado referente ao Modulo 3 do curso de HTML e CSS do [CURSO EM VIDEO](htt
 
 ```zsh
 # clonar repositório
-git clone https://github.com/CrisDev83/projetoGoogleGlass.git
+git clone https://github.com/CrisDev83/projetoCordel.git
 
 # entrar na pasta do projeto
-projetoGoogleGlass
+projetoCordel
 
 # encontrar o arquivo index.html
 clicar com o botão direito > abrir com google chrome ou outro navegador
