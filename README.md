@@ -6,45 +6,24 @@
 
 https://github.com/CrisDev83/projetoCordel
 
-Primeiro site que desencolvi em 2016 (Não Responsivo). Baseado no antigo curso (2013) de HTML e CSS do canal [CURSO EM VIDEO](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o). Apesar do Design ser bem retro, todas as funcionalidades de HTML (2013) foram abordadas nesse projeto. 
-
-Esse site é temático, se assemelha com um site institucional, somente traz informações sobre um projeto do Google na época que parecia ser revolucionario o Google Glass (Óculos do Google). Possui menu de navegação com interatividade, pagina com especificações, elementos multimídia, fotos e um formulário de contato. Apesar disso não é responsivo, na época (2013) não foi abordado este conceito.
+Site criado referente ao Modulo 3 do curso de HTML e CSS do [CURSO EM VIDEO](https://youtu.be/ofFgnDtn_1c) com o Professor Gustavo Guanabara. A idéia a apresentar outras formas de consumir poesia, nesse caso usando os meios digitais. Também é 100% responsivo. Para informações técnicas, acesse o Github no botão abaixo.
 
 ## O Que Aprendi
 
-- História da internet
-- História do HTML
-- Tags básicas em HTML5
-- Parágrafos, Quebras e Símbolos especiais
-- Formatação de texto com HTML5 e CSS3
-- Códigos de cores
-- Utilização e formatação de imagens
-- Listas Ordenadas e Não Ordenadas
-- Links
-- Menu
-- Efeitos visuais em CSS3
-- Formatação de interface
-- Cabeçalho em CSS3
-- Fontes em CSS3
-- Semântica em HTML5
-- Tabelas
-- Estilo para tabelas
-- Interfaces
-- Introdução ao JavaScript
-- JavaScript com Objetos
-- Funções
-- Integrando JavaScript com HTML5
-- Documentos Adicionais
-- Iframe
-- Mapas de imagem
-- Album de fotos
-- Audio e Video
-- Formulários
-- Formulários com JavaScript
+- Git e GitHubit
+- Versionamento de projetos
+- GitHub pages
+- Gerenciamento de repositórios
+- Background no CSS
+- Shorthands CSS
+- Efeito Paralax
 
 
 ## Layout Desktop
-![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/googleglass.png)
+![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/cordel.png)
+
+## Layout Mobile
+![Mobile 1](https://github.com/CrisDev83/assets-projects/blob/master/cordelmobile.png)
 
 
 # Tecnologias utilizadas
