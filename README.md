@@ -1,6 +1,6 @@
 # projetoCordel
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CrisDev83/projetoCordel/blob/master/LICENCE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CrisDev83/projetoCordel/blob/main/LICENSE) 
 
 # Sobre o projeto
 
