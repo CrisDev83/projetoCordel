@@ -22,7 +22,7 @@ Site criado referente ao Modulo 3 do curso de HTML e CSS do [CURSO EM VIDEO](htt
 ## Layout Desktop
 ![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/cordel.png)
 
-## Layout Mobile
+## Layout Responsivo
 ![Mobile 1](https://github.com/CrisDev83/assets-projects/blob/master/cordelmobile.png)
 
 
