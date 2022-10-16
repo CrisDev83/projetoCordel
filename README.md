@@ -8,7 +8,7 @@ https://github.com/CrisDev83/projetoCordel
 
 Site criado referente ao Modulo 3 do curso de HTML e CSS do [CURSO EM VIDEO](https://youtu.be/ofFgnDtn_1c) com o Professor Gustavo Guanabara. A idéia a apresentar outras formas de consumir poesia, nesse caso usando os meios digitais. Também é 100% responsivo. Para informações técnicas, acesse o Github no botão abaixo.
 
-## O Que Aprendi
+## O Que Aprendi?
 
 Git e GitHubit; Versionamento de projetos; GitHub pages; Gerenciamento de repositórios; Background no CSS; Shorthands CSS; Efeito Paralax.
 
