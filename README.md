@@ -10,13 +10,7 @@ Site criado referente ao Modulo 3 do curso de HTML e CSS do [CURSO EM VIDEO](htt
 
 ## O Que Aprendi
 
-- Git e GitHubit
-- Versionamento de projetos
-- GitHub pages
-- Gerenciamento de repositórios
-- Background no CSS
-- Shorthands CSS
-- Efeito Paralax
+Git e GitHubit; Versionamento de projetos; GitHub pages; Gerenciamento de repositórios; Background no CSS; Shorthands CSS; Efeito Paralax.
 
 
 ## Layout Desktop
